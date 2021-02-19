@@ -1,0 +1,13 @@
+D:\Visual Studio WorkSpace\ContactList\bin\Debug\ContactList.exe.config
+D:\Visual Studio WorkSpace\ContactList\bin\Debug\ContactList.exe
+D:\Visual Studio WorkSpace\ContactList\bin\Debug\ContactList.pdb
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.csprojAssemblyReference.cache
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.Login.resources
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.csproj.GenerateResource.cache
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.exe
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.pdb
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.Regist.resources
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.mainFrm.resources
+D:\Visual Studio WorkSpace\ContactList\obj\Debug\ContactList.AddContact.resources
