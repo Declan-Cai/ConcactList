@@ -26,7 +26,7 @@ C#课程大作业
 
 ### 1.系统功能结构图与模块结构图
 
-![image-20210219162011614](C:\Users\50356\AppData\Roaming\Typora\typora-user-images\image-20210219162011614.png)
+![image-20210219162011614](https://github.com/Declan-Cai/ConcactList/blob/master/images/LoginBg.jpg)
 
 ![image-20210219161917677](C:\Users\50356\AppData\Roaming\Typora\typora-user-images\image-20210219161917677.png)
 
